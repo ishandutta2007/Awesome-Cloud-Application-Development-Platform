@@ -1,46 +1,52 @@
-# Awesome-Cloud-Application-Development-Platform
+# Awesome Cloud Application Development Platform [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 
-## Top Cloud Application Development Platform Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Cloud Application Development Platform Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Application-Development-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Application-Development-Platform?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Application-Development-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Application-Development-Platform?style=social&color=white" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Application-Development-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Application-Development-Platform" alt="GitHub issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Application-Development-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Application-Development-Platform" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🌟 Top Cloud Application Development Platform Ecosystem
 
-*Focused on Low-Code Builders, Enterprise PaaS & Self-Hosted Application Platforms*  
+> **A curated directory of high-productivity Cloud Application Development Platforms, Low-Code / No-Code tools, Enterprise PaaS, and self-hosted Open-Source solutions.**
 
-**Last updated: October 2026**
+*Last updated: October 2026*
 
+This directory tracks the most capable **cloud application platforms**, **internal tool builders**, and **self-hosted application frameworks**. Whether you are constructing enterprise CRUD apps, operational workflows, customer portals, or serverless micro-frontends, these solutions eliminate boilerplate by offering drag-and-drop UI composition, native database connectors, granular role-based access control (RBAC), and automated deployment pipelines.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Cloud Application Development Platforms**. These tools enable teams to build, deploy, and scale custom applications—internal tools, customer portals, and workflow apps—using visual builders, pre-built connectors, and managed infrastructure rather than starting from scratch.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#-disclaimer)
 
+---
 
-**Examples** include Adobe App Builder, Retool, Mendix, OutSystems, Microsoft Power Apps, Appian, Quickbase, and open-source leaders like Appsmith, Budibase, and ToolJet (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, avoiding per-user or per-credit SaaS fees, and controlling the application runtime. The open-source landscape is anchored by **Appsmith** (the most widely adopted Retool alternative), **Budibase** (the all-in-one platform with built-in database), and **ToolJet** (the enterprise-focused builder), with **Windmill** serving developer-first script-to-UI workflows and **NocoDB** providing Airtable-style database frontends.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global cloud application and low-code development platform market is estimated at approximately **$37 billion to $48 billion** (scaling towards $50B+ with a ~25–30% CAGR), driven by enterprise digital transformation, developer shortages, and agentic AI app generation. The market structure is **moderately concentrated**—anchored at the top tier by major software giants and enterprise suites (e.g., Microsoft Power Apps, Siemens Mendix, OutSystems, Appian), complemented by a diverse, fragmented ecosystem of developer-first builders, specialized database workflow tools, and open-source alternatives.
 
-## SaaS/Hosted Platforms
+---
+
+## 🏢 SaaS/Hosted Platforms
+
+The following SaaS solutions are evaluated by scale, transparent pricing models, and specific free tier access limits, ordered by company valuation / revenue scale:
 
 | Product | Description | Valuation / Revenue Scale | Pricing | Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -53,90 +59,92 @@ The global cloud application and low-code development platform market is estimat
 | **[Quickbase (Pave)](https://www.quickbase.com/)** | No-code work management and operational application platform connecting operational data with business workflows. | ~$1.0B Valuation (~$215M ARR) | **Team Plan**: starts at **$35/user/month** (billed annually; subject to baseline platform contract minimums). | **Free Trial**: **30-day free trial** with access to Team features and up to 100 credits; no permanent free tier. |
 | **[Caspio](https://www.caspio.com/)** | No-code relational database and business application builder with zero per-user licensing fees. | ~$120M Estimated Revenue | **Team Plan**: starts at **$300/month** (billed annually at $3,600/year, includes unlimited application users and 50,000 data records). | **Free Trial**: **14-day free trial** with full platform features and testing capacity; no permanent free tier. |
 
-## Open-Source GitHub Projects
+---
 
+## 🔓 Open-Source GitHub Projects
 
+Self-hosted open-source application platforms grant total infrastructure sovereignty, prevent per-seat SaaS lock-in, and allow unlimited custom coding.
 
-- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+The repositories below are ranked strictly by **GitHub Stargazer Count (Descending)**, with social badge links to each project's stargazers page:
 
-  **The most widely adopted open-source Retool alternative.** Build admin panels, dashboards, and CRUD apps by dragging widgets and connecting to 25+ databases and any REST API. **Features**: JavaScript anywhere, Git sync for version control, granular RBAC, audit logs, and self-hosting via Docker/Kubernetes. **Cloud pricing**: Free for up to 5 users; Business $15/user/month; Enterprise $2,500 for 100 users. **Community Edition** is free to self-host with no user limits. Best for teams wanting a mature, well-documented builder with the broadest data source coverage.
+- **[Supabase](https://github.com/supabase/supabase)** [![GitHub Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
+  ⚡ **The open-source Firebase alternative & enterprise backend application platform.** Provides a dedicated PostgreSQL database, built-in instant GraphQL & REST APIs, edge functions, real-time listeners, vector search (`pgvector`), and complete auth. Perfect as the rock-solid data and API engine backing bespoke frontend applications.
 
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub Stars](https://img.shields.io/github/stars/nocodb/nocodb/stargazers) ](https://github.com/nocodb/nocodb/stargazers)  
+  📊 **The open-source Airtable alternative over existing relational databases.** Transforms PostgreSQL, MySQL, MariaDB, SQLite, and Microsoft SQL Server into smart, collaborative spreadsheet-database apps with kanban, gallery, grid, and form views, complete with automated REST APIs and webhook pipelines.
 
+- **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
+  🚀 **Self-contained, single-file open-source backend in Go.** Integrates an embedded SQLite database with real-time subscriptions, comprehensive auth (email/password, OAuth2), file asset storage (S3/local), and an instant admin UI dashboard.
 
-- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
-
-  **The all-in-one platform with built-in database.** Combines an internal DB (or connects to external sources), drag-and-drop app builder, automation engine, and AI agent builder in one package. **Features**: 40+ pre-built components, workspace management, user roles, and SSO on paid tiers. **Cloud pricing**: Free (1 creator, 50k DB rows); Premium $49/mo (1 creator, 250k rows); Business $299/mo (3 creators, 500k rows). **Self-hosted** is free with no creator limits. Best for teams wanting a single platform covering database, UI, and automation without stitching tools together.
-
-
+- **[Appwrite](https://github.com/appwrite/appwrite)** [![GitHub Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&color=white)](https://github.com/appwrite/appwrite/stargazers)  
+  🛡️ **Complete secure end-to-end backend platform for web, mobile, and internal applications.** Features flexible user authentication, document databases, storage management, scheduled CRON functions, security rules, and SDKs across 10+ programming languages.
 
 - **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+  🛠️ **Extensible open-source low-code internal tool builder with enterprise connectivity.** Connects seamlessly to PostgreSQL, MongoDB, Snowflake, Google Sheets, BigQuery, AWS S3, and OpenAPI-compliant REST/GraphQL APIs with 50+ rich UI widgets, JavaScript scripting, and fine-grained permissions.
 
-  **The enterprise-focused builder with strong data source coverage.** Connects to PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery, S3, and any REST/GraphQL API. **Features**: visual app builder with 50+ widgets, JavaScript code support, multi-page apps, granular permissions, and audit logs. **Self-hosted** Community Edition is free with no user limits. Best for teams needing a polished UI builder with enterprise features and broad database support.
+- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+  🖥️ **The leading open-source internal application and admin panel framework.** Create interactive admin dashboards, CRUD applications, and approval workflows by combining pre-made UI widgets with customized JavaScript and Git-backed version control.
 
+- **[Directus](https://github.com/directus/directus)** [![GitHub Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+  🧩 **Instant zero-code Data Studio and headless data engine for any SQL schema.** Layers dynamically on top of existing databases to generate realtime GraphQL/REST APIs, granular user permission schemas, and visual workflow builders without database migrations or vendor lock-in.
 
+- **[Refine](https://github.com/refinedev/refine)** [![GitHub Stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)  
+  💎 **React-based headless meta-framework for rapid enterprise internal tools and CRUD apps.** Decouples business logic from presentation, giving developers complete UI freedom with Ant Design, Material UI, Mantine, or Tailwind CSS while automating data routing, auth, and state.
+
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+  🏗️ **All-in-one low-code application builder with built-in database & automation engine.** Unifies internal database storage (CouchDB/external SQL), drag-and-drop form and portal creation, automated webhook workflows, and self-hosted Docker deployment.
 
 - **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
+  ⚙️ **Developer-first platform that turns Python, TypeScript, Go, Bash, or SQL scripts into production UIs & workflows.** Ideal for engineering teams that prefer writing code over purely visual builders to construct backend operations, cron schedules, and incident response tooling.
 
-  **The developer-first platform turning scripts into UIs.** Write logic in Python, TypeScript, Go, Bash, or SQL; Windmill auto-generates UIs, APIs, and workflows. **Features**: Git-based deployment, VS Code extension, secrets management, and self-hosting via Docker/Helm. **License**: AGPL-3.0 for core; enterprise features under commercial license. Best for engineering teams that want to build internal tools by writing code, not dragging widgets.
+- **[ILLA Builder](https://github.com/illa-family/illa-builder)** [![GitHub Stars](https://img.shields.io/github/stars/illa-family/illa-builder?style=social&color=white)](https://github.com/illa-family/illa-builder/stargazers)  
+  🤖 **AI-empowered open-source low-code platform for building internal applications.** Offers drag-and-drop UI composition, JavaScript/SQL integrations, and native support for LLM agents and multi-source event connections.
 
+- **[Baserow](https://github.com/bram2w/baserow)** [![GitHub Stars](https://img.shields.io/github/stars/bram2w/baserow?style=social&color=white)](https://github.com/bram2w/baserow/stargazers)  
+  📋 **Modular open-source no-code relational database builder.** Provides an Airtable-like spreadsheet interface capable of processing millions of rows, with infinite custom views, webhook events, and full REST API access.
 
-
-- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
-
-  **The Airtable alternative for existing databases.** Turns any Postgres, MySQL, SQLite, or SQL Server database into a spreadsheet-like interface with forms, galleries, and kanban views. **Features**: REST APIs auto-generated, webhooks, and role-based access. **Self-hosted** is free and open-source. Best for teams wanting a familiar spreadsheet UI over their existing data without migrating it.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Baserow** — Open-source Airtable alternative with a modern UI. Spreadsheet-database hybrid with views, formulas, and API access. Self-hosted via Docker is free. Best for teams wanting a polished Airtable-like experience they can host themselves.
-
-- **Directus** — Database-first headless CMS and data platform that wraps any SQL database with a no-code admin UI. Best for teams that want an instant admin panel over an existing schema.
-
-- **Appwrite** — Self-hosted backend-as-a-service with database, auth, storage, and functions. Best for teams building internal tools that need a backend layer alongside the UI.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- **Pricing models vary dramatically**: Retool charges per builder plus per internal user; Power Apps charges per user or per app; Caspio charges by records with **no per-user fees** ; Adobe App Builder uses resource packs rather than seats . Model your actual usage pattern before committing.
-
-- **Free tiers are for evaluation, not production**: Retool Free caps at 5 users and 500 workflow runs ; Power Apps Developer Plan is explicitly non-production; OutSystems Free limits to 100 end users; Caspio offers only a 14-day trial .
-
-- **Adobe App Builder is not a standalone low-code builder**: it's an extensibility framework for Adobe solutions, licensed in resource packs rather than seats . Only relevant if you're already in the Adobe ecosystem.
-
-- **Open-source platforms still require infrastructure**: Appsmith, Budibase, and ToolJet all need servers, databases, and maintenance—free software is not free operations.
-
-
+- **[Lowcoder](https://github.com/lowcoder-org/lowcoder)** [![GitHub Stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers)  
+  🔌 **Open-source low-code rapid application development framework.** Provides modular widget plugin architectures, custom JavaScript execution environments, and direct connections to corporate databases and APIs.
 
 ---
 
+## 📈 Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Cloud-Application-Development-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Cloud-Application-Development-Platform&type=date&legend=top-left)
 
-**Made for operations teams, internal tool builders, and developers who want to ship applications without writing full frontend code.**  
+---
 
-Let's make cloud application development more open, appropriately priced, and self-hostable.
+## 💖 Support
+
+If you find this curated ecosystem guide valuable, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork the repo** to contribute new platforms and keep pricing updated.
+- 📢 **Share with your team** and fellow cloud platform engineers.
+- ☕ **Buy me a coffee**: Support ongoing maintenance through the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help keep this list fresh, accurate, and comprehensive:
+
+1. **Fork the repository** on GitHub.
+2. **Add or update entries** in `README.md` following the standardized format (product name, official link, GitHub stargazer badge if open-source, and concise capabilities description).
+3. **Ensure objective accuracy**: For SaaS listings, include specific entry pricing tiers and transparent free plan/trial limits.
+4. **Submit a Pull Request** with a descriptive summary of your changes.
+
+---
+
+## ⚠️ Disclaimer
+
+- This is an independent, **community-curated** directory and does not constitute an endorsement or commercial partnership.
+- **Pricing models fluctuate**: SaaS vendors frequently revise subscription tiers, user seat thresholds, and API consumption formulas. Always consult official vendor pricing pages before making enterprise procurement commitments.
+- **Free tiers are typically capped**: Production workloads frequently require upgrading to paid plans once data storage, API rate limits, or user counts exceed baseline tiers.
+- **Open-source infrastructure costs**: While open-source software is free to license, running it in high-availability environments requires cloud compute, database hosting, operational monitoring, and backup infrastructure.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for DevOps engineers, internal tool builders, and cloud architects worldwide.</b>
+</p>
