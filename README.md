@@ -30,41 +30,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global cloud application and low-code development platform market is estimated at approximately **$37 billion to $48 billion** (scaling towards $50B+ with a ~25–30% CAGR), driven by enterprise digital transformation, developer shortages, and agentic AI app generation. The market structure is **moderately concentrated**—anchored at the top tier by major software giants and enterprise suites (e.g., Microsoft Power Apps, Siemens Mendix, OutSystems, Appian), complemented by a diverse, fragmented ecosystem of developer-first builders, specialized database workflow tools, and open-source alternatives.
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Retool](https://retool.com/)** | The category-defining internal tool builder with AI-native app generation, workflows, and self-hosting options. | **Team**: $10/builder/mo + $5/internal user/mo. **Business**: $50/builder/mo + $15/internal user/mo. **Enterprise**: custom . | **Free**: Up to 5 users, 500 workflow runs/month, 5GB database storage, 20 agent hours/month . |
-
-| **[Microsoft Power Apps](https://powerapps.microsoft.com/)** | Microsoft's low-code platform integrated with the Power Platform and Dataverse. | **Premium (per user)**: ~**$20/user/month** for unlimited apps and premium connectors. **Pay-as-you-go (per app)**: ~**$10/active user/app/month** . | **Nonprofit offer**: Free for up to 10 users, $2.50/user/mo for additional users . No general free tier; Developer Plan available for non-production use. |
-
-| **[Mendix](https://www.mendix.com/)** | Enterprise low-code with multi-app support and Siemens ecosystem alignment. | **Starting price**: **€52.50/month** (~$57) per Software Advice listing . Enterprise tiers are quote-based. | **Free tier**: 1 app, limited users, Mendix Cloud hosting (specific limits not detailed in search results). |
-
-| **[OutSystems](https://www.outsystems.com/)** | Enterprise high-performance low-code platform with full DevOps automation. | **Starting price**: **$36,300/year** (~$3,025/month) per Software Advice listings . Enterprise pricing is quote-based. | **Free tier**: 1 app, up to 100 end users, one environment (dev/test/prod combined). |
-
-| **[Appian](https://appian.com/)** | Enterprise process automation and low-code platform with strong workflow capabilities. | **Starting price**: **$75/month** per Software Advice . Standard/Advanced/Premium tiers available; enterprise quotes vary. | **Appian Community Edition**: Free for developers, 1 app, limited users, non-production use. |
-
-| **[Quickbase (Pave)](https://www.quickbase.com/)** | No-code platform focused on operational workflows with credit-based pricing. | **Team**: ~$120 credits/month (specific dollar amount for Team tier not shown in results). **Department**: **$300/mo** for 1,800 credits . | **Free**: 1 app, 1 builder, up to 3 users, **100 free credits** (then $20 per 100 credits) . |
-
-| **[Caspio](https://www.caspio.com/)** | No-code database app builder with **no per-user fees**—priced by records and features. | **Team (prepaid)**: **$15/month** . Business and Enterprise tiers scale with records and add-on blocks. | **Free trial**: 14 days with full access to core features. No permanent free tier . |
-
-| **[Adobe App Builder](https://developer.adobe.com/app-builder/)** | Extensibility framework for building custom experiences that extend Adobe solutions. | **Pack-based licensing** (1-year). Each pack includes 6M GB-seconds I/O runtime, 24M custom events, 10TB CDN egress, 1TB file storage, 10GB key-value storage, 40GB database storage . Contact Adobe for pack pricing. | **No free tier**. Available as add-on to Adobe products or standalone license . |
-
-
+| Product | Description | Valuation / Revenue Scale | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Power Apps](https://powerapps.microsoft.com/)** | Microsoft's enterprise low-code platform deeply integrated into Microsoft 365, Power Platform, Azure, and Dataverse. | ~$3.9T Market Cap (Microsoft) | **$20/user/month** (Power Apps Premium for unlimited apps); or **$5/user/app/month** (Power Apps per-app subscription). | **No permanent production free tier**. Offers a 30-day free trial and a permanent **Developer Plan** strictly limited to 1 user for non-production development/learning. |
+| **[Adobe App Builder](https://developer.adobe.com/app-builder/)** | Serverless extensibility framework for building custom cloud-native apps that extend Adobe Experience Platform, Commerce, and Workfront. | ~$105B Market Cap (Adobe) | **Pack-based annual licensing**; base deployments typically start at ~$15,000–$30,000/year (or bundled in qualifying Adobe Commerce/AEM cloud contracts). Standard Pack includes 6M GB-s compute, 24M events, 10TB CDN, 1TB file storage. | **No permanent free tier**. Enterprise trial sandbox access provided upon request via Adobe Developer Sales (strictly capped for non-production/staging: 200MB state storage, 0 PII data). |
+| **[Mendix](https://www.mendix.com/)** | Enterprise-grade low-code application development platform designed for complex multi-experience enterprise applications. | ~$150B Market Cap (Parent Siemens AG / Acquired for $730M) | **Basic**: **€52.50/month** (~$57/month, up to 5 named users per app). **Standard**: starts at **€840/month** (~$915/month). | **Free Edition (Forever Free)**: 1 deployed cloud app, up to 0.5 GiB (512 MB) database storage, 1 GiB file storage; app sleeps after 1 hour of inactivity. |
+| **[OutSystems](https://www.outsystems.com/)** | High-performance enterprise low-code development platform supporting mission-critical web and mobile systems. | ~$4.3B–$9.5B Valuation (~€500M+ ARR) | Starts at **$36,300/year** (billed annually, ~$3,025/month for entry-level enterprise deployment). | **Free Edition (Forever Free)**: 1 app environment (dev/test/prod combined), up to 100 end users, and 1 GB shared database storage. |
+| **[Retool](https://retool.com/)** | Developer-centric visual development environment for building internal web apps, dashboards, and automated workflows. | ~$3.2B Valuation (~$120M ARR) | **Team**: **$10/builder/month + $5/end-user/month**. **Business**: **$50/builder/month + $15/end-user/month**. | **Free Plan (Forever Free)**: Up to 5 users, 500 workflow runs/month, 5 GB Retool Database storage, and 20 AI agent hours/month. |
+| **[Appian](https://appian.com/)** | Enterprise low-code process automation platform combining workflow orchestration, data fabric, and AI-driven document processing. | ~$3.1B Market Cap (NASDAQ: APPN, ~$600M ARR) | Standard entry tiers start at **$75/user/month** (typically requires annual agreement with a 100-user baseline enterprise minimum). | **Community Edition (Forever Free)**: 1 dedicated developer environment, limited to 1 user for non-production prototyping and learning. |
+| **[Quickbase (Pave)](https://www.quickbase.com/)** | No-code work management and operational application platform connecting operational data with business workflows. | ~$1.0B Valuation (~$215M ARR) | **Team Plan**: starts at **$35/user/month** (billed annually; subject to baseline platform contract minimums). | **Free Trial**: **30-day free trial** with access to Team features and up to 100 credits; no permanent free tier. |
+| **[Caspio](https://www.caspio.com/)** | No-code relational database and business application builder with zero per-user licensing fees. | ~$120M Estimated Revenue | **Team Plan**: starts at **$300/month** (billed annually at $3,600/year, includes unlimited application users and 50,000 data records). | **Free Trial**: **14-day free trial** with full platform features and testing capacity; no permanent free tier. |
 
 ## Open-Source GitHub Projects
 
