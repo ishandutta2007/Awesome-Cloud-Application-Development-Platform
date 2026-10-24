@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Application-Development-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Application-Development-Platform?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Application-Development-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Application-Development-Platform?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Application-Development-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Application-Development-Platform?style=social&color=white" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Application-Development-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Application-Development-Platform" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Application-Development-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Application-Development-Platform" alt="License" /></a>
@@ -67,43 +67,43 @@ Self-hosted open-source application platforms grant total infrastructure soverei
 
 The repositories below are ranked strictly by **GitHub Stargazer Count (Descending)**, with social badge links to each project's stargazers page:
 
-- **[Supabase](https://github.com/supabase/supabase)** [![GitHub Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
+- **[Supabase](https://github.com/supabase/supabase)** [![GitHub_Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
   ⚡ **The open-source Firebase alternative & enterprise backend application platform.** Provides a dedicated PostgreSQL database, built-in instant GraphQL & REST APIs, edge functions, real-time listeners, vector search (`pgvector`), and complete auth. Perfect as the rock-solid data and API engine backing bespoke frontend applications.
 
-- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub Stars](https://img.shields.io/github/stars/nocodb/nocodb/stargazers) ](https://github.com/nocodb/nocodb/stargazers)  
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb/stargazers) ](https://github.com/nocodb/nocodb/stargazers)  
   📊 **The open-source Airtable alternative over existing relational databases.** Transforms PostgreSQL, MySQL, MariaDB, SQLite, and Microsoft SQL Server into smart, collaborative spreadsheet-database apps with kanban, gallery, grid, and form views, complete with automated REST APIs and webhook pipelines.
 
-- **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
+- **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub_Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
   🚀 **Self-contained, single-file open-source backend in Go.** Integrates an embedded SQLite database with real-time subscriptions, comprehensive auth (email/password, OAuth2), file asset storage (S3/local), and an instant admin UI dashboard.
 
-- **[Appwrite](https://github.com/appwrite/appwrite)** [![GitHub Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&color=white)](https://github.com/appwrite/appwrite/stargazers)  
+- **[Appwrite](https://github.com/appwrite/appwrite)** [![GitHub_Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&color=white)](https://github.com/appwrite/appwrite/stargazers)  
   🛡️ **Complete secure end-to-end backend platform for web, mobile, and internal applications.** Features flexible user authentication, document databases, storage management, scheduled CRON functions, security rules, and SDKs across 10+ programming languages.
 
-- **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub_Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
   🛠️ **Extensible open-source low-code internal tool builder with enterprise connectivity.** Connects seamlessly to PostgreSQL, MongoDB, Snowflake, Google Sheets, BigQuery, AWS S3, and OpenAPI-compliant REST/GraphQL APIs with 50+ rich UI widgets, JavaScript scripting, and fine-grained permissions.
 
-- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub_Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
   🖥️ **The leading open-source internal application and admin panel framework.** Create interactive admin dashboards, CRUD applications, and approval workflows by combining pre-made UI widgets with customized JavaScript and Git-backed version control.
 
-- **[Directus](https://github.com/directus/directus)** [![GitHub Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+- **[Directus](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
   🧩 **Instant zero-code Data Studio and headless data engine for any SQL schema.** Layers dynamically on top of existing databases to generate realtime GraphQL/REST APIs, granular user permission schemas, and visual workflow builders without database migrations or vendor lock-in.
 
-- **[Refine](https://github.com/refinedev/refine)** [![GitHub Stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)  
+- **[Refine](https://github.com/refinedev/refine)** [![GitHub_Stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)  
   💎 **React-based headless meta-framework for rapid enterprise internal tools and CRUD apps.** Decouples business logic from presentation, giving developers complete UI freedom with Ant Design, Material UI, Mantine, or Tailwind CSS while automating data routing, auth, and state.
 
-- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub_Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
   🏗️ **All-in-one low-code application builder with built-in database & automation engine.** Unifies internal database storage (CouchDB/external SQL), drag-and-drop form and portal creation, automated webhook workflows, and self-hosted Docker deployment.
 
-- **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
+- **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub_Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
   ⚙️ **Developer-first platform that turns Python, TypeScript, Go, Bash, or SQL scripts into production UIs & workflows.** Ideal for engineering teams that prefer writing code over purely visual builders to construct backend operations, cron schedules, and incident response tooling.
 
-- **[ILLA Builder](https://github.com/illa-family/illa-builder)** [![GitHub Stars](https://img.shields.io/github/stars/illa-family/illa-builder?style=social&color=white)](https://github.com/illa-family/illa-builder/stargazers)  
+- **[ILLA Builder](https://github.com/illa-family/illa-builder)** [![GitHub_Stars](https://img.shields.io/github/stars/illa-family/illa-builder?style=social&color=white)](https://github.com/illa-family/illa-builder/stargazers)  
   🤖 **AI-empowered open-source low-code platform for building internal applications.** Offers drag-and-drop UI composition, JavaScript/SQL integrations, and native support for LLM agents and multi-source event connections.
 
-- **[Baserow](https://github.com/bram2w/baserow)** [![GitHub Stars](https://img.shields.io/github/stars/bram2w/baserow?style=social&color=white)](https://github.com/bram2w/baserow/stargazers)  
+- **[Baserow](https://github.com/bram2w/baserow)** [![GitHub_Stars](https://img.shields.io/github/stars/bram2w/baserow?style=social&color=white)](https://github.com/bram2w/baserow/stargazers)  
   📋 **Modular open-source no-code relational database builder.** Provides an Airtable-like spreadsheet interface capable of processing millions of rows, with infinite custom views, webhook events, and full REST API access.
 
-- **[Lowcoder](https://github.com/lowcoder-org/lowcoder)** [![GitHub Stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers)  
+- **[Lowcoder](https://github.com/lowcoder-org/lowcoder)** [![GitHub_Stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers)  
   🔌 **Open-source low-code rapid application development framework.** Provides modular widget plugin architectures, custom JavaScript execution environments, and direct connections to corporate databases and APIs.
 
 ---
